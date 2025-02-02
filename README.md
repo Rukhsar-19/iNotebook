@@ -64,7 +64,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-### MERN PROJECT VIDEOhttps://github.com/Rukhsar-19/iNotebook/issues/1#issue-2825827026
+### MERN PROJECT VIDEOh
+https://github.com/user-attachments/assets/e7a89a45-2091-418d-a3ff-7ed87789bd3b
 https://github.com/Rukhsar-19/iNotebook/issues/1#issue-2825827026
 
 
