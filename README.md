@@ -64,6 +64,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### MERN PROJECT VIDEO
+https://github.com/Rukhsar-19/iNotebook/issues/1#issue-2825827026
 
 ### `npm run build` fails to minify
 
