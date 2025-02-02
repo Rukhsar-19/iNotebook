@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* cursor poniter say hath ban jay ga */
+i{
+  cursor:pointer;
+}
