@@ -65,6 +65,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 ### MERN PROJECT VIDEO 
+<video controls>
+  <source src="https://github.com/user-attachments/assets/1805cfe2-b8d9-4c6b-a921-5c2df9a8ff73" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 [https://github.com/user-attachments/assets/1805cfe2-b8d9-4c6b-a921-5c2df9a8ff73
 
 
