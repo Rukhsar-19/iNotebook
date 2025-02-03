@@ -1,6 +1,24 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  About iNotebook:
+iNotebook is a secure, cloud-based notes application built using the MERN stack. It allows users to create, update, and delete personal notes while ensuring security with JWT authentication and bcrypt password hashing.
+
+ Tech Stack: MongoDB, Express.js, React, Node.js
+Authentication: JWT & bcrypt.js
+State Management: Context API + useReducer
+Middleware: Secure routes with token validation
+Frontend: React with modern UI/UX design
+
+## Features:
+User Authentication: Sign up, login, and secure session management
+Create, Read, Update, Delete (CRUD) Notes
+JWT & Bcrypt Security: Passwords stored securely, protected APIs
+Middleware Protection: Private routes require authentication
+Responsive UI: Mobile-friendly design
+Error Handling & Validation
+
+
 
 ## Available Scripts
 
